@@ -2,7 +2,7 @@
 
 #### envs:
 * opencv3
-* gstreamer1.0
+* gstreamer1.0 (compile with opencv3 using `cmake`)
 ----
 ## 2019.12.26
 > * use **send.cpp** to send video with UDP  in clinet A  
