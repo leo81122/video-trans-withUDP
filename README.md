@@ -8,6 +8,12 @@
 g++ xxx.cpp -o xxx `pkg-config --cflags --libs opencv`
 ```
 ----
+## 2020.01.18
+> * remove debug print and write code comment in **send.cpp** and **receive.cpp**
+#### TBD
+> * add more functions
+
+----
 ## 2019.12.26
 > * use **send.cpp** to send video with UDP  in clinet A  
 > * use **receive.cpp** to receive video with UDP in client B  
