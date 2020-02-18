@@ -8,7 +8,7 @@
 g++ xxx.cpp -o xxx `pkg-config --cflags --libs opencv`
 ```
 ----
-## 2020.01.188
+## 2020.01.18
 > * remove debug print and write code comment in **send.cpp** and **receive.cpp**
 #### TBD
 > * add more functions
